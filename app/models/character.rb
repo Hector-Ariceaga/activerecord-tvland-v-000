@@ -1,3 +1,5 @@
 class Character < ActiveRecord::Base
-  has_one :cat
+  has_one :catchphrase
+  
+  def
 end
