@@ -1,0 +1,1 @@
+class AddCharactersToActors < ActiveRecord::M
